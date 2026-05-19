@@ -10,10 +10,11 @@ body {
 
 .hero {
     background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6));
-    backgroung-image: url('/assets/imgBg.jpg');
+    background-image: url('/assets/imgBg.jpg');
     background-size: cover;
     background-position: center;
     height: 90vh;
+
 }
 
 .card img {
